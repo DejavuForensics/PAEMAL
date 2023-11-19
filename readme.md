@@ -6,9 +6,14 @@
     23 February 2022, PREPRINT (Version 1) available at Research Square 
     https://doi.org/10.21203/rs.3.rs-390916/v1
     
-## How to use our dataset in Matlab
+## How to use our dataset in Matlab with MLP (Multilayer Perceptron)
 
 [TrainingTime, TestingTime, TrainingAccuracy, TestingAccuracy] = ['MLP'](https://github.com/refade/Artificial-intelligence-based-antivirus-in-order-to-detect-malware-preventively/blob/main/MLP.m)(['Antivirus_Dataset_PHP_batch_1.mat'](https://github.com/rewema/PAEMAL/blob/master/Antivirus_Dataset_PHP_batch_1.mat), 1, 500, 'traincgb', 0)
+
+## How to use our dataset in Python with ELM (Extreme Learning Machine)
+
+python [melm.py](https://github.com/DejavuForensics/mELM/melm.py) -tall [Antivirus_Dataset_PHP_batch_1_mELM_format](https://github.com/DejavuForensics/PAEMAL/blob/master/Antivirus_Dataset_PHP_batch_1_mELM_format.csv) 
+-ty 1 -nh 500 -af dilation -v
 
 ## Commercial Antiviruses Limitation
 
