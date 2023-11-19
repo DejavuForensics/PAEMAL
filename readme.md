@@ -1,10 +1,12 @@
 # PAEMAL
 (PHP Analysis Environment Applied to Malware Machine Learning)
 
-    Sidney Lima, Sthéfano Silva, Ricardo Pinheiro et al. 
-    Next-Generation Antivirus endowed with Web-Server SandBox Applied to Audit Fileless Attack, 
-    23 February 2022, PREPRINT (Version 1) available at Research Square 
-    https://doi.org/10.21203/rs.3.rs-390916/v1
+```
+Lima, S.M.L., Silva, S.H.M.T., Pinheiro, R.P. et al.
+Next-generation antivirus endowed with web-server Sandbox applied to audit fileless attack.
+Soft Comput 27, 1471–1491 (2023).
+https://doi.org/10.1007/s00500-022-07447-4
+```
     
 ## How to use our dataset in Matlab with MLP (Multilayer Perceptron)
 
