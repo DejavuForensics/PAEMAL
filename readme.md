@@ -4,7 +4,7 @@
 ```
 Lima, S.M.L., Silva, S.H.M.T., Pinheiro, R.P. et al.
 Next-generation antivirus endowed with web-server Sandbox applied to audit fileless attack.
-Soft Comput 27, 1471–1491 (2023).
+Soft Computing 27, 1471–1491 (2023).
 https://doi.org/10.1007/s00500-022-07447-4
 ```
     
