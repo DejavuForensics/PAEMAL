@@ -15,7 +15,7 @@ https://doi.org/10.1007/s00500-022-07447-4
 ## How to use our dataset in Python with ELM (Extreme Learning Machine)
 
 python [melm.py](https://github.com/DejavuForensics/mELM/melm.py) -tall [Antivirus_Dataset_PHP_batch_1_mELM_format](https://github.com/DejavuForensics/PAEMAL/blob/master/Antivirus_Dataset_PHP_batch_1_mELM_format.csv) 
--ty 1 -nh 500 -af dilation -v
+-kfold 10 -virusNorm -ty 1 -nh 500 -af dilation -v
 
 ## Commercial Antiviruses Limitation
 
